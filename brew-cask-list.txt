@@ -1,4 +1,6 @@
+adoptopenjdk
 atom
+ccmenu
 dash
 dropbox
 firefox

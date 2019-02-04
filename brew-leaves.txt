@@ -6,9 +6,13 @@ awscli
 brotli
 czmq
 docker
+docker-completion
+docker-compose-completion
+docker-machine-completion
 elm
 ffmpeg
 fish
+flow
 fontforge
 galen
 gdub
@@ -28,7 +32,9 @@ intltool
 jq
 kotlin
 kubernetes-cli
+launchctl-completion
 leiningen
+libev
 libsass
 libsodium
 maven
@@ -48,6 +54,7 @@ rust
 scala
 shared-mime-info
 sphinx-doc
+spring-completion
 pivotal/tap/springboot
 tree
 ttfautohint
@@ -56,5 +63,7 @@ vim
 webpack
 wget
 yarn
+yarn-completion
 youtube-dl
 zsh
+zsh-completions
