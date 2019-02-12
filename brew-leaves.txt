@@ -21,6 +21,7 @@ github-keygen
 github-release
 gnu-sed
 go
+gopass
 gradle
 gradle-completion
 groovy
@@ -44,6 +45,7 @@ node@10
 openshift-cli
 openssl@1.1
 p7zip
+pinentry-mac
 prettier
 protobuf
 py2cairo
