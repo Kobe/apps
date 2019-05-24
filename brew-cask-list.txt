@@ -15,6 +15,7 @@ handbrake
 intellij-idea
 istat-menus
 iterm2
+microsoft-office
 moneymoney
 now
 onedrive
