@@ -1,4 +1,4 @@
-yarn global v1.15.2
+yarn global v1.16.0
 info "@stencil/core@0.18.1" has binaries:
    - stencil
 info "@vue/cli@3.7.0" has binaries:
@@ -18,9 +18,9 @@ info "create-react-app@3.0.1" has binaries:
    - create-react-app
 info "imaging-heap@1.0.0" has binaries:
    - imagingheap
-info "netlify-cli@2.11.12" has binaries:
+info "netlify-cli@2.11.19" has binaries:
    - ntl
    - netlify
 info "vuepress@0.14.11" has binaries:
    - vuepress
-Done in 1.46s.
+Done in 1.23s.
