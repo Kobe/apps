@@ -48,13 +48,11 @@ p7zip
 pinentry-mac
 prettier
 protobuf
-py2cairo
 pygobject3
 redis
 rsync
 rust
 scala
-shared-mime-info
 sphinx-doc
 spring-completion
 pivotal/tap/springboot
