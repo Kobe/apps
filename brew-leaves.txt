@@ -4,9 +4,12 @@ ansible
 apr
 awscli
 brotli
+cask
 czmq
+dep
 docker
 docker-completion
+docker-compose
 docker-compose-completion
 docker-machine-completion
 elm
@@ -29,6 +32,7 @@ gtksourceview3
 heroku/brew/heroku
 htop
 httpstat
+hugo
 intltool
 jq
 kotlin
@@ -50,6 +54,7 @@ prettier
 protobuf
 pygobject3
 redis
+rethinkdb
 rsync
 rust
 scala
@@ -59,6 +64,7 @@ pivotal/tap/springboot
 tree
 ttfautohint
 typescript
+umlet
 vim
 webpack
 wget

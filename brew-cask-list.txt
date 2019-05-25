@@ -8,6 +8,7 @@ firefox
 firefox-developer-edition
 forklift
 github
+google-chat
 google-chrome
 google-chrome-canary
 google-photos-backup-and-sync
@@ -20,7 +21,10 @@ moneymoney
 now
 onedrive
 opera
+pgadmin4
+postico
 postman
+react-studio
 safari-technology-preview
 sequel-pro
 slack
@@ -44,3 +48,4 @@ whatsapp
 xquartz
 yed
 youtube-to-mp3
+zeplin
