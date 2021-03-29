@@ -1,4 +1,13 @@
 # my installed homebrew apps
 
-* [brew leaves > brew-list.txt](brew-list.txt)
-* [brew list --cask > brew-list-cask.txt](brew-list-cask.txt)
+```zsh
+# install homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# install apps
+./apps-install.sh
+
+# save installed apps
+./apps-save.sh
+
+```
